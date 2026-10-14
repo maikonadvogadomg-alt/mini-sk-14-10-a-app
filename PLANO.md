@@ -1,12 +1,12 @@
 # 📋 Plano do projeto: Mini-SK-14-10-a
 
-_Gerado em 14/10/2026, 13:02:07 — sem IA, lendo os arquivos._
+_Gerado em 14/10/2026, 13:19:45 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
 |---|---|
 | Arquivos | 69 |
-| Linhas | 10.755 |
+| Linhas | 10.758 |
 | Telas/páginas | 1 |
 | Rotas do backend | 0 |
 | Chamadas do app | 0 |
