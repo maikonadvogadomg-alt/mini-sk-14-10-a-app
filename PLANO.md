@@ -1,19 +1,19 @@
 # 📋 Plano do projeto: Mini-SK-14-10-a
 
-_Gerado em 14/10/2026, 12:59:55 — sem IA, lendo os arquivos._
+_Gerado em 14/10/2026, 13:02:07 — sem IA, lendo os arquivos._
 
 ## 📊 Visão geral
 | Item | Valor |
 |---|---|
-| Arquivos | 66 |
-| Linhas | 10.450 |
+| Arquivos | 69 |
+| Linhas | 10.755 |
 | Telas/páginas | 1 |
 | Rotas do backend | 0 |
 | Chamadas do app | 0 |
 | Tabelas do banco | 0 |
 | Variáveis de ambiente | 2 |
 
-**Linguagens:** JavaScript (41), Imagem (15), Imagem SVG (2), JSON (2), YAML (1), Outros (1), CSS (1), Ícone (1), HTML (1), Markdown (1)
+**Linguagens:** JavaScript (41), Imagem (15), JSON (3), YAML (2), Imagem SVG (2), Markdown (2), Outros (1), CSS (1), Ícone (1), HTML (1)
 
 ## 💡 O que fazer (em ordem)
 1. 🧹 Tirar a Replit de 13 arquivo(s) (🏗️ Preparar → Fazer tudo)
@@ -123,6 +123,7 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 ```
 ├─ 📁 .github/
 │  └─ 📁 workflows/
+│     ├─ apk.yml
 │     └─ desktop-exe.yml
 ├─ 📁 css/
 │  └─ app.css
@@ -187,11 +188,13 @@ _Só os nomes. Os valores (chaves, senhas) nunca vão no código nem no GitHub._
 │  ├─ 98-api.js
 │  └─ 99-app.js
 ├─ .gitignore
+├─ apk.config.json
 ├─ favicon.ico
 ├─ index.html
 ├─ LEIA-ME.md
 ├─ manifest.json
 ├─ package.json
+├─ PLANO.md
 ├─ service-worker.js
 └─ sw.js
 ```
